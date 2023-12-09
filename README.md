@@ -1,6 +1,7 @@
 # InvestigatingNetflixMovie
 Explore the world of Netflix movies with 'NetflixMovieInvestigation.' Uncover trends and insights through data analysis.
-![Netflix Logo](image1.jpg)
+
+![Netflix](image1.jpg)
 
 
 **Getting Started:**
